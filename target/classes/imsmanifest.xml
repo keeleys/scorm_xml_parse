@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is a Reload version 2.5.5 SCORM 1.2 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="POWERPLUS-LS00303-20120530" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <organizations default="POWERPLUS-LS00303-20120530">
+        <organization identifier="POWERPLUS-LS00303-20120530" structure="hierarchical">
+            <item identifier="ITEM">
+                <title>激励团队，三招搞定</title>
+                <item identifier="ITEM-574B96C50850AD117DD6735DD89A2641" isvisible="true" identifierref="RES-9E7CDBC40EF3B8834A989F394ED31326">
+                    <title>学习目标</title>
+                </item>
+                <item identifier="ITEM-C8D708216509BEFF3D2973D327FFEDB9" isvisible="true" identifierref="RES-44AE893E3D3D937DC3D43E2F407CC4BE">
+                    <title>物质激励</title>
+                </item>
+                <item identifier="ITEM-B320D32C145ADEC89F0B67C2E6D517F4" isvisible="true" identifierref="RES-10CF40B203BC5940929A9D211E38C216">
+                    <title>情感激励</title>
+                </item>
+                <item identifier="ITEM-52FA311FA98673C52376BB2FC43479FE" isvisible="true" identifierref="RES-2DB532EBC2FF46179B075869BCED4F24">
+                    <title>工作发展激励</title>
+                </item>
+                <item identifier="ITEM-7AB11204C5494C304888623FC35788F9" isvisible="true" identifierref="RES-896ED8E2803427DD5472A81581811899">
+                    <title>测试</title>
+                </item>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="RES-9E7CDBC40EF3B8834A989F394ED31326" type="webcontent" href="sco01/sco.html" adlcp:scormtype="sco">
+            <file href="sco01/sco.html"/>
+            <file href="sco01/sco.swf"/>
+        </resource>
+        <resource identifier="RES-44AE893E3D3D937DC3D43E2F407CC4BE" type="webcontent" href="sco02/sco.html" adlcp:scormtype="sco">
+            <file href="sco02/sco.html"/>
+            <file href="sco02/sco.swf"/>
+        </resource>
+        <resource identifier="RES-10CF40B203BC5940929A9D211E38C216" type="webcontent" href="sco03/sco.html" adlcp:scormtype="sco">
+            <file href="sco03/sco.html"/>
+            <file href="sco03/sco.swf"/>
+        </resource>
+        <resource identifier="RES-2DB532EBC2FF46179B075869BCED4F24" type="webcontent" href="sco04/sco.html" adlcp:scormtype="sco">
+            <file href="sco04/sco.html"/>
+            <file href="sco04/sco.swf"/>
+        </resource>
+        <resource identifier="RES-896ED8E2803427DD5472A81581811899" type="webcontent" href="sco05/sco.html">
+            <file href="sco05/sco.html"/>
+            <file href="sco05/sco.swf"/>
+        </resource>
+    </resources>
+</manifest>
